@@ -1,3 +1,4 @@
+![console]([http://url/to/img.png](https://gcdnb.pbrd.co/images/beGJBlp7fXa9.png))
 # Mullvad Checker
 
 This Python script allows you to check the status and expiration date of Mullvad VPN accounts by providing a list of account numbers. It makes API requests to the Mullvad API and retrieves the account details for each account number.
